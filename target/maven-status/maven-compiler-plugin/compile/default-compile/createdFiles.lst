@@ -1,0 +1,5 @@
+sarjan\jpa\dataModel\AppStarter.class
+sarjan\jpa\dataModel\services\StudentService.class
+sarjan\jpa\dataModel\data\StudentRepository.class
+sarjan\jpa\dataModel\controller\StudentController.class
+sarjan\jpa\dataModel\model\Student.class
